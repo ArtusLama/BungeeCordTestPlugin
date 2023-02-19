@@ -1,0 +1,8 @@
+name: Bungeecommunicate
+version: '${project.version}'
+main: de.artus.bungeecommunicate.Main
+api-version: 1.18
+authors: [ _Artus_ ]
+commands:
+  bungeecommunicate:
+    description: Just for testing!
